@@ -13,7 +13,7 @@ class Dus1 {
   display(){
   var uio =this.body.position;
   rectMode(CENTER);
-  fill("black");
+  fill("white");
   rect(uio.x,uio.y, this.width, this.height);
     }
   }
